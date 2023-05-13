@@ -32,7 +32,7 @@ Now,The first problem i had when seeking for my first job is solved.
 * Checked for missing values and replaced them with appropriate values (such as mean)
 * Renamed columns to have clear and consistent names
 * Ensure consistency in data by standardizing formats, units, and values.
-* augmented data by crating new features such as Country, Recruitment type, Seniority level, and Industries
+* Normalized data by crating new columns such as Country, Recruitment type, Seniority level, and Industries
 ## Analysis Conducted
 * Grouped the data by onsite_remote and calculated the count of jobs for each workPlace
 * Grouped the data by Recruitment type and calculated the count of jobs for each Recruitment type
