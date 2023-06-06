@@ -1,5 +1,6 @@
 # LinkedIn Data Analyst Jobs Listings in Africa
-![LinkedIn Data Analyst job listings Dashboard](https://github.com/khaledtarek99/linkedin-data-analyst-jobs-listings-africa/assets/53887110/3b4fe2d5-b412-40c2-9003-f239a7e4a187)
+
+![LinkedIn Data Analyst job listings Dashboard](https://github.com/khaledtarek99/linkedin-data-analyst-jobs-listings-africa/assets/53887110/e7b4200a-968d-4992-be97-fbb062f4d72b)
 
 This repository contains Excel workbook that cleans and analyzes and visualizes Data Analyst job listings from LinkedIn in different African countries.
 The data was collected from Kaggle and consists of a CSV file with over 2500 job listings. The focus of this analysis was on identifying the most required seniority level, Recruiment Type, and the location of the positions in Africa.
